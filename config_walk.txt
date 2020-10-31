@@ -1,0 +1,10 @@
+{
+  "T": 24,
+  "Monthly Days": 30,
+  "Cumulated License": 1500,
+  "Rules": [
+			".\/rules_unitary.txt",
+			".\/rules.txt"
+	],
+  "Cost Result": ".\/cost_table_walk_unitary.csv"
+}
